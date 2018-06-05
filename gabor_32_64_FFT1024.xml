@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<dict>
+    <libVersion>0.6.0</libVersion>
+    <block>
+        <param name="blockOffset" value="0" />
+        <param name="fftSize" value="1024" />
+        <param name="type" value="gabor" />
+        <param name="windowLen" value="32" />
+        <param name="windowShift" value="16" />
+        <param name="windowopt" value="0" />
+        <param name="windowtype" value="gauss" />
+    </block>
+    <block>
+        <param name="blockOffset" value="0" />
+        <param name="fftSize" value="1024" />
+        <param name="type" value="gabor" />
+        <param name="windowLen" value="64" />
+        <param name="windowShift" value="32" />
+        <param name="windowopt" value="0" />
+        <param name="windowtype" value="gauss" />
+    </block>
+</dict>
